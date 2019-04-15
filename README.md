@@ -1,2 +1,4 @@
 # 277777788888899
-Multiplicative persistence
+## Multiplicative persistance
+
+Just a couple of implementations of multiplicative persistance.
